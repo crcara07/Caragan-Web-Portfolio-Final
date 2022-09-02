@@ -1,3 +1,4 @@
+
 body {
   background-color:#DAE2DF;
   font-family:Georgia, 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
@@ -12,7 +13,7 @@ header {
 }
 
 hr {
-  width: 1000px;/*shorten the line break*/
+  width: 400px;/*shorten the line break*/
 }
 
 h1 {
@@ -35,7 +36,7 @@ a.highlight:hover {
 
 image {
   width: 200px;
-  height: 400px;
+  height: 200px;
 }
 
 main {
@@ -44,7 +45,7 @@ main {
 
 footer {
   background-color:#A2A7A5;
-  color: black;/*use black as it pops*/
+  color: black;/*use white as it pops*/
 }
 
 .center {/*include pseudo-class*/
@@ -52,6 +53,6 @@ footer {
 }
 
 .wrapper {/*use wrapper to align content*/
-  width: 100px;
+  width: 500px;
   margin: auto;
 }

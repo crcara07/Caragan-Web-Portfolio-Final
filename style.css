@@ -1,7 +1,7 @@
 body {
   background-color:#DAE2DF;
   font-family:Georgia, 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
-  font-size: 20px;
+  font-size: 30px;
 }
 
 header {
@@ -12,7 +12,7 @@ header {
 }
 
 hr {
-  width: 400px;/*shorten the line break*/
+  width: 1000px;/*shorten the line break*/
 }
 
 h1 {

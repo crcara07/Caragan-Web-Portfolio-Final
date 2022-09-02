@@ -1,7 +1,7 @@
 body {
   background-color:#DAE2DF;
-  font-family:'Lucida Sans Unicode', 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
-  font-size: 15px;
+  font-family:Georgia, 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
+  font-size: 20px;
 }
 
 header {
@@ -35,7 +35,7 @@ a.highlight:hover {
 
 image {
   width: 200px;
-  height: 400px;
+  height: 200px;
 }
 
 main {
@@ -43,9 +43,8 @@ main {
 }
 
 footer {
-  background-color:;
   background-color:#A2A7A5;
-  color: white;/*use white as it pops*/
+  color: black;/*use white as it pops*/
 }
 
 .center {/*include pseudo-class*/
@@ -53,8 +52,6 @@ footer {
 }
 
 .wrapper {/*use wrapper to align content*/
-  width: 1170px;
+  width: 500px;
   margin: auto;
 }
-
-

@@ -39,7 +39,7 @@ image {
 }
 
 main {
-  padding: 0;/*need padding at 0 so gap between text and image isn't too large*/
+  padding: 100;/*need padding at 0 so gap between text and image isn't too large*/
 }
 
 footer {

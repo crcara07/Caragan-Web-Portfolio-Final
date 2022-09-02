@@ -1,6 +1,6 @@
 Cashmere Caragan Web Portfolio for Thinkful
 
-This is a porfolio website for Thinkful. 
+This is a portfolio website for Thinkful. 
 This website includes information regarding the student's name, location, experience, and contact information.  
 This website includes an index.html, style.css, and image. 
 

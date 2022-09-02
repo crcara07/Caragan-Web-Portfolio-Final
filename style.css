@@ -1,6 +1,6 @@
 body {
   background-color:#DAE2DF;
-  font-family:'Lucida Sans Unicode', 'Times New Roman', Times, serif;
+  font-family:'Lucida Sans Unicode', 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
   font-size: 12px;
 }
 
@@ -12,11 +12,11 @@ header {
 }
 
 hr {
-  width: 400px;
+  width: 400px;/*shorten the line break*/
 }
 
 h1 {
-  margin: 0;
+  margin: 0;/*need 0 margins so decreases space between h1 and h2*/
   font-size: 60px;
 }
 
@@ -42,14 +42,14 @@ main {
 footer {
   background-color:;
   background-color:#A2A7A5;
-  color: white;
+  color: white;/*use white as it pops*/
 }
 
-.center {
+.center {/*include pseudo-class*/
   text-align: center;
 }
 
-.wrapper {
+.wrapper {/*use wrapper to align content*/
   width: 300px;
   margin: auto;
 }

@@ -30,7 +30,7 @@ h3, h4, .headingcenter { /*combine h3, h4 psuedo-class*/
   text-align: center;
 }
 
-a:visited { */psuedo-classes*/
+a:visited { /*psuedo-classes*/
   color: red;
 }
 

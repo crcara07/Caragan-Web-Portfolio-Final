@@ -30,7 +30,11 @@ h3, h4, .headingcenter { /*combine h3, h4 psuedo-class*/
   text-align: center;
 }
 
-a.highlight:hover {
+a:visited { */psuedo-classes*/
+  color: red;
+}
+
+a:hover { /*psuedo-classes*/
   color: #ff0000;
 } 
 

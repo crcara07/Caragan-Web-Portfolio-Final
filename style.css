@@ -1,12 +1,12 @@
 
-body {
+body {/*body contains background color of body, family-font of entire text in body, font size that is larger readable*/
   background-color:#DAE2DF;
   font-family:Georgia, 'Times New Roman', Times, serif;/*use fonts that are commonly used*/
   font-size: 20px;
 }
 
 header {
-  background-color:black;
+  background-color:black;/*use of black to emphasis the header, need to make sure header is clear*/
   font-family:'Times New Roman', Times, serif;
   text-align: center;
   color: #C8D3D5;
@@ -30,15 +30,15 @@ h3, h4, .headingcenter { /*combine h3, h4 psuedo-class*/
   text-align: center;
 }
 
-a:visited { /*psuedo-classes*/
+a:visited { /*styled link to psuedo-classes*/
   color: red;
 }
 
-a:hover { /*psuedo-classes*/
+a:hover { /*styled link psuedo-classes*/
   color: #ff0000;
 } 
 
-image {
+image {/*image size not too big*/
   width: 200px;
   height: 200px;
 }
@@ -48,11 +48,11 @@ main {
 }
 
 footer {
-  background-color:#A2A7A5;
-  color: black;/*use white as it pops*/
+  background-color:#A2A7A5;/*use lighter background to emphasize text*/
+  color: black;/*use black since clearer*/
 }
 
-.center {/*include pseudo-class*/
+.center {/*included pseudo-class*/
   text-align: center;
 }
 
